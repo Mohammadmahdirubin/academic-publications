@@ -168,7 +168,7 @@ I have authored and contributed to more than **20 books and educational resource
 
 The following papers are currently available as preprints (or under preprint processing on Civilica).  
 
-مقالات زیر به‌صورت پیش‌چاپ ارائه شده‌اند (یا در حال پردازش پیش‌چاپ در سیویلیکا هستند).
+مقالات زیر به‌صورت پیش‌چاپ ارائه شده‌اند (در انتظار انتشار در سیویلیکا).
 
 ---
 
