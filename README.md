@@ -182,44 +182,26 @@ Rubin, M. (n.d.). Designing AI-supported multimodal Russian language learning: A
 </div>
 
 ---
-## Preprints | پیش‌چاپ‌ها
+## Conference Papers | مقالات کنفرانسی
 
-The following papers are currently available as preprints (or under preprint processing on Civilica).  
+The following three conference papers have been published and are linked to their respective records on Civilica.
 
-مقالات زیر به‌صورت پیش‌چاپ ارائه شده‌اند (در انتظار انتشار در سیویلیکا).
+### 1. Literary Texts as Pedagogical Mediators in Russian as a Foreign Language Education: An Integrated Conceptual Framework for Developing Intercultural Communicative Competence in Iranian Higher Education
 
----
+**Author:** Mohammadmahdi Rubin  
+**Publication record:** [Civilica – Document 2750207](https://civilica.com/doc/2750207/)
 
-### 1. Русско-персидская языковая интерференция: сопоставительный подход к обучению русскому языку как иностранному
+### 2. Russian Cultural Awareness in Foreign Language Education: A Linguocultural Approach to Developing Intercultural Competence
 
-**English title:**  
-Russian-Persian Language Interference: A Comparative Approach to Teaching Russian as a Foreign Language
+**Author:** Mohammadmahdi Rubin  
+**Publication record:** [Civilica – Document 2750206](https://civilica.com/doc/2750206/)
 
-**موضوع:**  
-تداخل زبانی روسی–فارسی و رویکرد تطبیقی در آموزش زبان روسی به‌عنوان زبان خارجی
+### 3. Russian-Persian Language Interference: A Contrastive Approach to Teaching Russian as a Foreign Language
 
----
-
-### 2. Осведомлённость о русской культуре в обучении иностранным языкам: лингвокультурологический подход к развитию межкультурной компетенции
-
-**English title:**  
-Awareness of Russian Culture in Foreign Language Teaching: A Linguoculturological Approach to the Development of Intercultural Competence
-
-**موضوع:**  
-آگاهی از فرهنگ روسی در آموزش زبان‌های خارجی: رویکرد زبان‌فرهنگی به توسعه شایستگی میان‌فرهنگی
+**Author:** Mohammadmahdi Rubin  
+**Publication record:** [Civilica – Document 2750208](https://civilica.com/doc/2750208/)
 
 ---
-
-### 3. Literary Texts as Pedagogical Mediators in Russian as a Foreign Language Education: An Integrated Conceptual Framework for Developing Intercultural Communicative Competence in Iranian Higher Education
-
-**موضوع:**  
-متون ادبی به‌عنوان میانجی‌های آموزشی در آموزش زبان روسی به‌عنوان زبان خارجی: چارچوب مفهومی یکپارچه برای توسعه شایستگی ارتباطی میان‌فرهنگی در آموزش عالی ایران
-
----
-
-> **Note:**  
-> Full texts will be linked here once the preprints are officially published or made publicly available on Civilica / other platforms.  
-> پس از انتشار رسمی پیش‌چاپ‌ها در سیویلیکا یا سایر پلتفرم‌ها، لینک متن کامل اضافه خواهد شد.
 
 ## Research Interests Reflected in Publications | <span dir="rtl">علایق پژوهشی منعکس‌شده در انتشارات</span>
 
