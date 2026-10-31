@@ -191,15 +191,30 @@ The following three conference papers have been published and are linked to thei
 **Author:** Mohammadmahdi Rubin  
 **Publication record:** [Civilica – Document 2750207](https://civilica.com/doc/2750207/)
 
+**Publication venue:** [Fourth International Conference on Language, Literature, Culture and Historical Studies](https://civilica.com/l/188927/)  
+**Publication year:** 1405 (2026)  
+**Document type:** Conference paper  
+**Language:** English
+
 ### 2. Russian Cultural Awareness in Foreign Language Education: A Linguocultural Approach to Developing Intercultural Competence
 
 **Author:** Mohammadmahdi Rubin  
 **Publication record:** [Civilica – Document 2750206](https://civilica.com/doc/2750206/)
 
+**Publication venue:** [Fourth International Conference on Language, Literature, Culture and Historical Studies](https://civilica.com/l/188927/)  
+**Publication year:** 1405 (2026)  
+**Document type:** Conference paper  
+**Language:** English
+
 ### 3. Russian-Persian Language Interference: A Contrastive Approach to Teaching Russian as a Foreign Language
 
 **Author:** Mohammadmahdi Rubin  
 **Publication record:** [Civilica – Document 2750208](https://civilica.com/doc/2750208/)
+
+**Publication venue:** [Fourth International Conference on Language, Literature, Culture and Historical Studies](https://civilica.com/l/188927/)  
+**Publication year:** 1405 (2026)  
+**Document type:** Conference paper  
+**Language:** English
 
 ---
 
