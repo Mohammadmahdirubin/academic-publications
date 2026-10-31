@@ -157,6 +157,12 @@ I have authored and contributed to more than **20 books and educational resource
 
 ### 1. Designing AI-Supported Multimodal Russian Language Learning: A Conceptual Framework for Learner Autonomy, Critical AI Literacy, and Intercultural Competence
 
+<div dir="rtl">
+
+**ترجمه فارسی:** «طراحی یادگیری چندوجهی زبان روسی با پشتیبانی هوش مصنوعی: چارچوبی مفهومی برای خودمختاری زبان‌آموز، سواد انتقادی هوش مصنوعی و شایستگی بین‌فرهنگی»
+
+</div>
+
 **Author:** Mohammadmahdi Rubin  
 **Journal:** *Russian Language Studies*  
 **Article page:** [Read the full article](https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html)
@@ -188,6 +194,12 @@ The following three conference papers have been published and are linked to thei
 
 ### 1. Literary Texts as Pedagogical Mediators in Russian as a Foreign Language Education: An Integrated Conceptual Framework for Developing Intercultural Communicative Competence in Iranian Higher Education
 
+<div dir="rtl">
+
+**ترجمه فارسی:** «متون ادبی به‌مثابه میانجی‌های آموزشی در آموزش زبان روسی به‌عنوان زبان خارجی: چارچوبی مفهومی و یکپارچه برای پرورش شایستگی ارتباطی بین‌فرهنگی در آموزش عالی ایران»
+
+</div>
+
 **Author:** Mohammadmahdi Rubin  
 **Publication record:** [Civilica – Document 2750207](https://civilica.com/doc/2750207/)
 
@@ -198,6 +210,12 @@ The following three conference papers have been published and are linked to thei
 
 ### 2. Russian Cultural Awareness in Foreign Language Education: A Linguocultural Approach to Developing Intercultural Competence
 
+<div dir="rtl">
+
+**ترجمه فارسی:** «آگاهی فرهنگی از روسیه در آموزش زبان خارجی: رویکردی زبان‌فرهنگی برای پرورش شایستگی بین‌فرهنگی»
+
+</div>
+
 **Author:** Mohammadmahdi Rubin  
 **Publication record:** [Civilica – Document 2750206](https://civilica.com/doc/2750206/)
 
@@ -207,6 +225,12 @@ The following three conference papers have been published and are linked to thei
 **Language:** English
 
 ### 3. Russian-Persian Language Interference: A Contrastive Approach to Teaching Russian as a Foreign Language
+
+<div dir="rtl">
+
+**ترجمه فارسی:** «تداخل زبانی روسی و فارسی: رویکردی مقابله‌ای در آموزش زبان روسی به‌عنوان زبان خارجی»
+
+</div>
 
 **Author:** Mohammadmahdi Rubin  
 **Publication record:** [Civilica – Document 2750208](https://civilica.com/doc/2750208/)
