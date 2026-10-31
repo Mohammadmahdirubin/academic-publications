@@ -155,6 +155,24 @@ I have authored and contributed to more than **20 books and educational resource
 
 ## Journal Articles | <span dir="rtl">مقالات علمی</span>
 
+### 1. Designing AI-Supported Multimodal Russian Language Learning: A Conceptual Framework for Learner Autonomy, Critical AI Literacy, and Intercultural Competence
+
+**Author:** Mohammadmahdi Rubin  
+**Journal:** *Russian Language Studies*  
+**Article page:** [Read the full article](https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html)
+
+**Citation:**
+
+Rubin, M. (n.d.). Designing AI-supported multimodal Russian language learning: A conceptual framework for learner autonomy, critical AI literacy, and intercultural competence. *Russian Language Studies*. [https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html](https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html)
+
+<div dir="rtl">
+
+**روبین، محمدمهدی.** «طراحی آموزش چندوجهی زبان روسی با پشتیبانی هوش مصنوعی: چارچوبی مفهومی برای خودمختاری زبان‌آموز، سواد انتقادی هوش مصنوعی و شایستگی بین‌فرهنگی». *مطالعات زبان روسی*. [مشاهده و مطالعه مقاله](https://rlsj.ir/article-ai-supported-multimodal-russian-language-learning.html)
+
+</div>
+
+---
+
 <div dir="rtl">
 
 - روبین، محمدمهدی. (۱۳۹۸). آزمایش خودروهای برفی. *فصلنامه علمی زبان روسی پاروس*، شماره نخست، دانشگاه علامه طباطبایی.
